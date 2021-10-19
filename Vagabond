@@ -1,0 +1,17 @@
+{
+  "title": "Vagabond",
+  "description": "Vagabond adalah komik Jepang karya Takehiko Inoue yang didasarkan dari cerita novel Musashi karya Eiji Yoshikawa. Komik ini bercerita mengenai Miyamoto Musashi sebagai seorang petarung yang sangat berambisi untuk menjadi petarung nomor satu di dunia. Alur ceritanya tidak 100% persis sama dengan novel asli.",
+  "artist": "Takehiko Inoue",
+  "author": "Takehiko Inoue",
+  "cover": "https://i.imgur.com/RxoxNj5.jpg",
+  "chapters": {
+    "001": {
+      "title": "Shinmen Takezo",
+      "volume": "01",
+      "groups": {
+        "TSXSeinen": "/proxy/api/imgur/chapter/ArT0oQ0/"
+      },
+      "last_updated": "1616368746"
+    }
+  }
+}
